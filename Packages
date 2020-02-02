@@ -1,0 +1,16 @@
+Package: io.sigjnf.feeltheaudio
+Version: 1.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: Filip Nowak <filip.nowak@ictmbo.nl>
+Installed-Size: 168
+Depends: mobilesubstrate, firmware (>= 13)
+Filename: ./debs/io.sigjnf.feeltheaudio_1.0-1+debug_iphoneos-arm.deb
+Size: 3090
+MD5sum: 019b5798cffb6c5cd0679c556e2fdbd5
+SHA1: f34b07833a2a13ff776afd071e903512b82c804f
+SHA256: 7ffe4fa94c4426829861e76ac9d0520c66c86a72447cc168062f9e17f38e4b77
+Section: Tweaks
+Description: Feel the vibes when changing the volume with your buttons!
+Author: Filip Nowak <filip.nowak@ictmbo.nl>
+Name: FeelTheAudio
+
